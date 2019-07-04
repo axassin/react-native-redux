@@ -1,2 +1,4 @@
-# musika
-A mobile app build with react-native and spotify integration.
+# My create react-native with redux
+- redux
+- redux saga
+- recompose
